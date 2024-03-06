@@ -1,0 +1,24 @@
+Descubra a lógica e complete o próximo elemento:
+
+
+
+a) 1, 3, 5, 7, ___
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+d) 4, 16, 36, 64, ____
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+
+Resposta:
+a) Esta sequência está aumentando de 2 em 2. Então, o próximo elemento é 9.
+b) Esta sequência está multiplicando cada número por 2, ou seja dobrando o número anterior a cada passo. Então, o próximo elemento é 128.
+c) Sequência apresentada parece ser composta pelos quadrados dos números naturais, começando de 0. Portanto, o próximo número na sequência seria o quadrado de 7, que é 49. 
+d) Essa sequência parece estar relacionada com quadrados de números pares. São 2*2, 4*2, 6*2, 8*2. Então, o próximo número é 100.
+e) Essa sequência parece seguir a sequência de Fibonacci, onde cada número é a soma dos dois números anteriores. Então, o próximo número é 13.
+f) Sequência formada através de todos os números que iniciam com a letra d. Assim, o próximo número em ordem crescente que inicia com a letra d é 200.
